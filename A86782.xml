@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of some of the inhabitants of the parish of Leonard Shoreditch against Iohn Squire, vicar of the parish aforesaid, together with thirteene articles against the aforesaid Iohn Squire. Also the humble petition of the major, recorder, alderman, common councell men, and inhabitants of the borough of Kings Lyn in the county of Norfolk.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86782</idno><idno type="EEBO-CITATION">99859871</idno>
+  <idno type="VID">156504</idno>
+  <idno type="EEBO-PROQUEST">2240868473</idno>
+  
+            <idno type="STC">Wing H3481</idno>
+            <idno type="STC">Thomason E137_21</idno>
+            <idno type="STC">ESTC R15477</idno>
+            <idno type="PROQUEST">99859871</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859871e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156504)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of some of the inhabitants of the parish of Leonard Shoreditch against Iohn Squire, vicar of the parish aforesaid, together with thirteene articles against the aforesaid Iohn Squire. Also the humble petition of the major, recorder, alderman, common councell men, and inhabitants of the borough of Kings Lyn in the county of Norfolk.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Franke, and are to be sold at his shop next doore to the Kings head in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Squire, John, ca. 1588-1653.</term>
+               <term type="corporate_name">Church of England --  Clergy --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">King's Lynn (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156504:1"/>
+            <p>THE HUMBLE PETITION Of some of the inhabitants of the Parish of <hi>Leonard</hi> Shoreditch against <hi>Iohn Squire,</hi> Vicar of the Parish aforesaid, together with thirteene ARTICLES Against the aforesaid <hi>Iohn Squire.</hi>
+            </p>
+            <p>ALSO The humble Petition of the Major, Recorder, Alderman, Common Councell men, and inhabitants of the Borough of <hi>Kings Lyn</hi> in the County of <hi>Norfolk.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Franke,</hi> and are to be sold at his shop next doore to the Kings head in <hi>Fleetstreet,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156504:2"/>
+            <pb n="1" facs="tcp:156504:2"/>
+            <head>The humble Petition of some of the Inhabitants of the Parish of <hi>Leonard Shoreditch</hi> to the House of Commons.</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Petitioner<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have formerly presented a Petition to this Honourable House, wherein they did remonstrate their agreevances con<g ref="char:EOLhyphen"/>cerning <hi>John Squire,</hi> Vicar of the Parish afore<g ref="char:EOLhyphen"/>said, upon the proofe of which charge, the Honourable Committee found just cause to vote him a Scandalous Minister, notwithstanding hee still continueth in his place as Invective as ever, alwayes endea<g ref="char:EOLhyphen"/>vouring (as your Petitioners humbly conceives) to worke in his hearers an ill opinion of this honourable House, by having an eye to the severall proceedings, and accordingly to preach in opposition to them, as many partly appeare by the Articles hereunto annexed; And that hee hath peremptorily said, that none shall come there to Preach, but himselfe or his Curate, so long as hee hath any thing to doe in the place.</p>
+            <p>All which premisses your Petitioners humbly present to your Just and pious considerations, humbly praying, that in
+<pb n="2" facs="tcp:156504:3"/>your grave wisdomes you would be pleased in due time to take some order for the removall of so corrupt and dan<g ref="char:EOLhyphen"/>gerous a Preacher, and (by the power of this Honoura<g ref="char:EOLhyphen"/>ble house) to establish one amongst us that is faithfull and able, in the dispensation of the Gospell. And in the meane time your Petitioners doe humbly supplicate, that they many have Master <hi>George Smith</hi> to bee a Lecturer, to preach every Lords day in the afternoone, to begin at two of the clocke in the parish Church aforesaid, to the com<g ref="char:EOLhyphen"/>fort of our soules,</p>
+            <closer>
+               <hi>And your Petitioners shall ever pray,</hi> &amp;c,
+<signed>
+                  <list>
+                     <item>
+                        <hi>Christopher Debdale.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Samwayes,</hi>
+                     </item>
+                     <item>
+                        <hi>William Crooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Ramsey.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles">
+            <pb n="3" facs="tcp:156504:3"/>
+            <p n="1">1 THat the said Master <hi>Squire</hi> is voted a scan<g ref="char:EOLhyphen"/>dalous Minister.</p>
+            <p n="2">2 That hee hath refused to obey the order of this Honorable House concerning Lecturers.</p>
+            <p n="3">3 That hee said it is possible for the highest Court to be angry too much in passing greater sen<g ref="char:EOLhyphen"/>tences then the offence may deserve.</p>
+            <p n="4">4 That hee said wee have got <hi>Hallifax</hi> law a<g ref="char:EOLhyphen"/>mongst us to cut off mens heads, and after exa<g ref="char:EOLhyphen"/>mine the cause, and hardly then neither: these be called your Religious men.</p>
+            <p n="5">5 And in bewailing the present times (not one<g ref="char:EOLhyphen"/>ly Nationall, but more particularly the Clergies) he said how that many are like to lose both their Livings and Estates, so that he could wish with the Prophet <hi>Jeremy,</hi> That his head were water, and and his eyes a fountaine of teares: and thereupon hee chose that Text, 1 <hi>Thes.</hi> 5. <hi>Rejoyce evermore,</hi> to cheere up himselfe and others in like condition with himselfe.</p>
+            <p n="6">6 That hee said, that hee could wish that they would wash their hands from bloud, that were the cause of throwing down the Rulers of the Church, and woe be to them that hath cast dirt in their fa<g ref="char:EOLhyphen"/>ces.</p>
+            <p n="7">7 That it is little lesse then the sin against the Holy Ghost, to put downe one Minister and setup another.</p>
+            <p n="8">8 That it is greatly to be feared, that the way is now a paving for the Popes re-entrance againe into this Kingdome, because the three Bulwarks which kept him out are a beating downe, <hi>(viz.)</hi> the
+<pb n="5" facs="tcp:156504:4"/>Book of Common Prayer, secondly, the govern<g ref="char:EOLhyphen"/>ment of the Church, thirdly, the peace which Christ left to his Church.</p>
+            <p n="9">9 That he publike Prayers is the onely means to attaine life and salvation, and if they will come Wednesdays and Fridays, and a little on Saturdays his soul for theirs they shall have their reward, life and salvaion.</p>
+            <p n="10">10 That it is unlawfull to use long conceived extemporary prayer, for it transgrest the command of Christ, and the rule of the Apostle <hi>Paul.</hi>
+            </p>
+            <p n="11">11 That hee spake in derision of those that would have a warrant from the Word for all they would doe, saying, That then women must not re<g ref="char:EOLhyphen"/>ceive the Sacraments, and if they will have all done that the Word biddeth them do, they must sell all that they have and lay it downe at the Teachers feet, which they will never do.</p>
+            <p n="12">12 That he still continueth his second Service, and introduceth forms of Prayer, which are not to be found in the Book of Common Prayer.</p>
+            <p n="13">13 That as the Petioners humbly conceives he hath been the means for causing the Constable to present many of the Parish to the Grand Inquest, and there indicted upon the Statute of Recusancie, for not comming to divine Service, and now they lie in the Crown Office, for <hi>Robert Moore</hi> Church<g ref="char:EOLhyphen"/>warden hath confessed that Master <hi>Squire</hi> and they had concluded in the Vestry house, what to doe in the businesse.</p>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:156504:4"/>
+            <head>The humble Petition of the Major, Recorder, Aldermen, Common Coun<g ref="char:EOLhyphen"/>cill, and Inhabitants of the Borough of <hi>Kings Lyn<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in the County of <hi>Norfolke</hi> to the House of Commons,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat, whereas by the blessing of Al<g ref="char:EOLhyphen"/>mighty God, of his Majesties grace, and of your incessant labours, this whole Kingdom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath beene eased of m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y griev<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> b<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ns, both in Church and Common wealth, and especially by the late excluding Bi<g ref="char:EOLhyphen"/>shops from their Votes in Parliament, and setling the <hi>Militia</hi> of this Realme, in an happy posture of Defence, against the threatning dan<g ref="char:EOLhyphen"/>gers of these distracted times. Wee therefore (your Peti<g ref="char:EOLhyphen"/>tioners) humbly acknowledge, that as we cannot, but with all thankfulnesse, according to our duties, blesse God, the King, and you the great Court, and blessed cause of this de<g ref="char:EOLhyphen"/>sired Reformation and Securitie: So we cannot but humbly beseech you to goe on cheerefully in that blessed Worke, as<g ref="char:EOLhyphen"/>well by quickning the Lawes of the Land against Papists, and by bringing to Judgement the discovered, imprisoned, and other wise cautioned delinquents; As also, by speeding Reliefe to our distressed brethren in <hi>Ireland</hi> for their present su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cour, and our future safetie.</p>
+            <pb n="6" facs="tcp:156504:5"/>
+            <p>And; as the duty of our late Vow and Protestation moveth us, wee further pray and implore your high Wisdomes, to improve all meanes (as hitherto you have done) for the better maintenance of the true reformed Protestant Reli<g ref="char:EOLhyphen"/>gion, and of the Union and Peace of the three Kingdomes, of <hi>England, Scotland,</hi> and <hi>Ireland.</hi> And to that end, that his Majestie and Parliament will be graciously pleased, to remove all popish Lords out of the House of Peeres.</p>
+            <p>Lastly, wee humbly desire, that by your helpe, the Seas be effectually guarded, and our Trading thereby advan<g ref="char:EOLhyphen"/>ced, our English from Turkish slavery redeemed, Pro<g ref="char:EOLhyphen"/>jectors at home punished, Scandalous Ministers remo<g ref="char:EOLhyphen"/>ved, and the Petitions against Bishop <hi>Wren</hi> prosecuted, under whose tyrannie and popish innovations we have much suffered.</p>
+            <closer>And your Petitioners shall ever pray for the continuati<g ref="char:EOLhyphen"/>on of happy Successe to all your endevours in this blessed Parliament.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
